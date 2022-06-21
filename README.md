@@ -9,7 +9,9 @@ This datapack adds 3 recipes for crafting Slimeballs, based on carrageenan, pect
 Here are the different recipes! They all make 3 slime balls.
 
 Carrageenan - 1 Dried seaweed + 2 buckets of milk
+
 Pectin - 1 pectin-rich fruit (defined as either an apple or citrus) + 2 buckets of water
+
 Xanthan gum - 2 buckets of water and 1 of the following: wheat, sugar cane, milk, or corn (if you are using a Fabric mod that adds corn, and it doesn't tag corn weird)
 
 
