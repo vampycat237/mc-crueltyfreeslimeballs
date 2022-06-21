@@ -4,7 +4,7 @@
 		{"id": "minecraft:sugar_cane"},
 		{"id": "minecraft:wheat"},
 		{"id": "minecraft:milk_bucket"},
-		{"id": "#c:corn"},
-		{"id": "#c:grains/corn"}
+		{"id": "#c:corn", "required": false},
+		{"id": "#c:grains/corn", "required": false}
 	]
 }

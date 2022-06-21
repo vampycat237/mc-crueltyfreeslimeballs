@@ -1,10 +1,10 @@
 {
 	"replace": false,
 	"values" : [
-		{"id": "#c:fruits/oranges"},
-		{"id": "#c:fruits/lemons"},
-		{"id": "#c:fruits/limes"},
-		{"id": "#c:fruits/grapefruits"},
-		{"id": "#c:fruits/kumquat"}
+		{"id": "#c:fruits/oranges", "required": false},
+		{"id": "#c:fruits/lemons", "required": false},
+		{"id": "#c:fruits/limes", "required": false},
+		{"id": "#c:fruits/grapefruits", "required": false},
+		{"id": "#c:fruits/kumquat", "required": false}
 	]
 }

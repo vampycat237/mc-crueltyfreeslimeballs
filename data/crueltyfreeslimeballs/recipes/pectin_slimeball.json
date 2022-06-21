@@ -1,7 +1,7 @@
 {
 	"type" : "crafting_shapeless",
 	"ingredients" : [
-	{ "tag" : "crueltyfreeslimeballs:fruits_pectin" },
+	{ "tag" : "c:fruits_pectin" },
 	{ "item" : "minecraft:water_bucket" },
 	{ "item" : "minecraft:water_bucket" }
 	],

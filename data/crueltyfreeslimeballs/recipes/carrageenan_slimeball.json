@@ -2,8 +2,8 @@
 	"type" : "crafting_shapeless",
 	"ingredients" : [
 	{ "item" : "minecraft:dried_kelp" },
-	{ "tag" : "crueltyfreeslimeballs:milks" },
-	{ "tag" : "crueltyfreeslimeballs:milks" }
+	{ "item" : "minecraft:milk_bucket" },
+	{ "item" : "minecraft:milk_bucket" }
 	],
 	"result" : {
 		"item" : "minecraft:slime_ball",
