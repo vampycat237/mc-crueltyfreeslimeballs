@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values" : [
+		{"id": "#c:fruits/apples"},
+		{"id": "#c:fruits_citrus"}
+	]
+}

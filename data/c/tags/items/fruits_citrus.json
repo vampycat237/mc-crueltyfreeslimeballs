@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values" : [
+		{"id": "#c:fruits/oranges"},
+		{"id": "#c:fruits/lemons"},
+		{"id": "#c:fruits/limes"},
+		{"id": "#c:fruits/grapefruits"},
+		{"id": "#c:fruits/kumquat"}
+	]
+}

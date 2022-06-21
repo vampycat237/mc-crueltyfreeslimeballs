@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values" : [
+		{"id": "minecraft:sugar_cane"},
+		{"id": "minecraft:wheat"},
+		{"id": "minecraft:milk_bucket"},
+		{"id": "#c:corn"},
+		{"id": "#c:grains/corn"}
+	]
+}

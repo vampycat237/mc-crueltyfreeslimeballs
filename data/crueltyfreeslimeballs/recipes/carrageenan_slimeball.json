@@ -1,0 +1,12 @@
+{
+	"type" : "crafting_shapeless",
+	"ingredients" : [
+	{ "item" : "minecraft:dried_kelp" },
+	{ "item" : "minecraft:milk_bucket" },
+	{ "item" : "minecraft:milk_bucket" }
+	],
+	"result" : {
+		"item" : "minecraft:slime_ball",
+		"count": 3
+	}
+}
