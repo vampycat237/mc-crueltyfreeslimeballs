@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values" : [
+		{"id": "#forge:fruit/apple", "required": false},
+		{"id": "#forge:fruits_citrus", "required": false}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values" : [
+		{"id": "#forge:crops/corn", "required": false},
+		{"id": "#forge:grains/corn", "required": false},
+		{"id": "#forge:vegetables/corn", "required": false},
+		{"id": "#forge:corn", "required": false}
+	]
+}

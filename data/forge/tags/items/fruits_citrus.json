@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values" : [
+		{"id": "#forge:fruit/orange", "required": false},
+		{"id": "#forge:fruit/lemon", "required": false},
+		{"id": "#forge:fruit/lime", "required": false},
+		{"id": "#forge:fruit/grapefruit", "required": false},
+		{"id": "#forge:fruit/kumquat", "required": false}
+	]
+}
