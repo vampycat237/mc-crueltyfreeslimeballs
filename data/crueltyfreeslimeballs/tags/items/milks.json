@@ -1,8 +1,0 @@
-{
-	"replace": false,
-	"values" : [
-		{"id": "minecraft:milk"},
-		{"id": "#c:milks"},
-		{"id": "#forge:milk"}
-	]
-}
