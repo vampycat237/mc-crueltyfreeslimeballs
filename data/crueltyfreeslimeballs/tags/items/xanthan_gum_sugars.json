@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values" : [
+		{"id": "#c:xanthan_gum_sugars"},
+		{"id": "#forge:corn"}
+	]
+}

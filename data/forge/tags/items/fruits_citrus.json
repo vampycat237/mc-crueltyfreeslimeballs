@@ -1,0 +1,37 @@
+{
+	"replace": false,
+	"values" : [
+		{"id": "#forge:fruits/oranges"},
+		{"id": "#forge:fruits/lemons"},
+		{"id": "#forge:fruits/limes"},
+		{"id": "#forge:fruits/grapefruits"},
+		{"id": "#forge:fruits/kumquat"},
+		
+		{"id": "#forge:fruits/orange"},
+		{"id": "#forge:fruits/lemon"},
+		{"id": "#forge:fruits/lime"},
+		{"id": "#forge:fruits/grapefruit"},
+		
+		{"id": "#forge:fruit/oranges"},
+		{"id": "#forge:fruit/lemons"},
+		{"id": "#forge:fruit/limes"},
+		{"id": "#forge:fruit/grapefruits"},
+		{"id": "#forge:fruit/kumquat"},
+		
+		{"id": "#forge:fruit/orange"},
+		{"id": "#forge:fruit/lemon"},
+		{"id": "#forge:fruit/lime"},
+		{"id": "#forge:fruit/grapefruit"},
+		
+		{"id": "#forge:oranges"},
+		{"id": "#forge:lemons"},
+		{"id": "#forge:limes"},
+		{"id": "#forge:grapefruits"},
+		{"id": "#forge:kumquat"},
+		
+		{"id": "#forge:orange"},
+		{"id": "#forge:lemon"},
+		{"id": "#forge:lime"},
+		{"id": "#forge:grapefruit"}
+	]
+}
