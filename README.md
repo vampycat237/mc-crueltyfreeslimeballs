@@ -3,7 +3,7 @@ gelatin-alternative inspired recipes for slimeballs
 
 [Curseforge](https://www.curseforge.com/minecraft/mc-addons/cruelty-free-slimeballs)
 
-For 1.18.2 - Works in vanilla, fabric, and forge! Should support modded crops if they tag their crops properly - let me know if it doesn't.
+Supports 1.18.2 - 1.20.4 (if you download from source- might take a bit for me to push releases). Should support modded crops if they tag their crops properly - let me know if it doesn't.
 
 This datapack adds 3 recipes for crafting Slimeballs, based on carrageenan, pectin, and xanthan gum. Helpful for folks who play on Peaceful, don't like dealing with slimes, or just find it a pain to find slimes in the first place. (No, weak baby panda sneezes are not a viable source of slimeballs imo - I tried.)
 
