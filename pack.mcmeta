@@ -1,6 +1,7 @@
 {
 	"pack": {
 		"pack_format": 9,
+		"supported_formats": [9,26],
 		"description": "Make slimeballs from kelp or fruit!"
 	}
 }
